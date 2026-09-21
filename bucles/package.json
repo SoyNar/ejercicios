@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "bucles",
+    "type": "module",
+  "version": "1.0.0",
+  "description": "El desafío FizzBuzz es una de las tareas de entrevista de programación más comunes del mundo. El desafío consiste en escribir un programa que muestre una lista de números, reemplazando cada tercer número con \"Fizz\" y cada quinto número con \"Buzz\".",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
