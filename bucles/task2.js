@@ -6,7 +6,7 @@ for (let i = 1; i <= 105; i++) {
   let output = "";
   if(i%3 ===0){
     output += "Fizz";
-  }else {
-    console.log( output || i)
   }
+    console.log( output || i)
+  
 };
